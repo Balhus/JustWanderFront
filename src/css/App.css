@@ -1,0 +1,260 @@
+.App {
+  text-align: center;
+}
+
+/* CONTAINERS----------------------------*/
+
+.nav-lg.container-fluid {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around !important;
+  flex-direction: row;
+  align-content: space-around;
+}
+
+.container.margin-bottom-70px {
+  margin-bottom: 70px;
+}
+
+.container.margin-top-70px {
+  margin-top: 70px;
+}
+
+.container-detail {
+  padding: 0px;
+  margin: 0px;
+}
+
+.row-detail {
+  padding: 10px;
+  margin-top: 44px;
+}
+
+
+/* NAV-----------------------------------*/
+
+.nav-icon {
+  justify-content: end;
+  color: black;
+  font-size: 30px;
+  vertical-align: middle;
+}
+
+.nav-lg {
+  display: flex;
+  justify-content: end;
+}
+
+a.nav-link {
+  padding: 0px;
+  color: black;
+}
+
+/* burger = clase inventada sin nada dentro */
+div.burger a.nav-link:hover {
+  /* color: green; */
+  color: black;
+}
+
+a.nav-icon {
+  color: green;
+  line-height: 0;
+  /* height: 30px; */
+}
+
+a.nav-icon:hover {
+  color: darkgreen;
+}
+
+.navbar-movil {
+  box-shadow: 0px 9px 11px 8px grey;
+}
+
+.navbar-pc {
+  box-shadow: 0px -10px 13px 7px grey;
+}
+
+
+/* BUTTONS-------------------------------*/
+
+/* a.btn.btn-outline-success {
+  border-radius: 100%;
+  border: solid 2px green;
+  font-weight: 800;
+  line-height: 0;
+  padding: 10px
+} */
+
+.btn.btn-success:focus {
+  box-shadow: none !important;
+}
+
+.btn.btn-success:active {
+  box-shadow: none !important;
+  transform: scale(0.97);
+}
+
+/* btn-round = clase inventada sin nada dentro */
+div.btn-round .btn.btn-success {
+  border-radius: 100%;
+  font-weight: 800;
+  line-height: 0;
+  padding: 10px
+}
+
+/* button.navbar-toggler.collapsed {
+  border: solid 2px green;
+} */
+
+/* button.navbar-toggler {
+  border-color: solid 2px green;
+} */
+
+/* .center-btn {
+  padding-right: 30px;
+} */
+
+/* span.navbar-toggler-icon{
+  background-color: brown;
+} */
+
+/* .dropup btn-group{
+  border-color: solid 2px green;
+} */
+
+button#dropdown-button-drop-up::after {
+  /* border-color: solid 2px green; */
+  display: none !important;
+}
+
+button#dropdown-button-drop-up {
+  /* border: solid 2px green; */
+  border: none;
+  line-height: 0;
+  padding: 5px;
+  font-size: 35px;
+}
+
+button#dropdown-button-drop-up:hover {
+  /* border: solid 2px green; */
+  background: none;
+  color: darkgreen
+}
+
+/* button#dropdown-button-drop-up:active {
+  color: black;
+} */
+
+button:focus {
+  box-shadow: none !important;
+  /* outline: 0!important; */
+}
+
+/* .navbar .btn {
+  padding: 10px!important;
+} */
+
+
+/* DROP-DOWNS----------------------------*/
+
+.dropdown-menu.show {
+  text-align: center;
+  top: auto;
+  bottom: 113%;
+  left: -95% !important;
+  margin-top: 0;
+  margin-bottom: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+.dropdown-menu {
+  min-width: 8rem !important;
+}
+
+a.dropdown-item:active {
+  background-color: darkgrey;
+}
+
+
+/* CARDS---------------------------------*/
+
+.card {
+  margin: 5%;
+  text-align: center;
+  border: none;
+  box-shadow: 6px 6px 10px -2px grey;
+}
+
+.card-css.col-lg-3.col-md-4.col-6 {
+  padding: 0px;
+}
+
+/* 
+.card-title h5{
+  font-size: 10px;
+} 
+*/
+
+.bg-dark.text-white.card {
+  border: none;
+  border-radius: 3%;
+  /* background-color: none; */
+}
+
+.card-title.h5 {
+  color: white;
+}
+
+p.card-text {
+  color: white;
+}
+
+
+img.card-img {
+  border-radius: 3%;
+  /* background-color: none; */
+}
+
+/* .text-white {
+  --bs-text-opacity: 0;
+} */
+
+.card-img-overlay:hover {
+  background: rgba(34, 34, 34, 0.6);
+  border-radius: 3%;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+.card:active {
+  transform: scale(1);
+}
+
+/* .card a:hover {
+  opacity: 0.5;
+} 
+
+.card-img-overlay:hover {
+  opacity: 0.1;
+}
+
+.card a:hover {
+  opacity: 0.5;
+} */
+
+
+/* IMG-----------------------------------*/
+
+.img-car{
+  height: 100%;
+  min-width: 100%;
+}
+
+/* ON/OFF SCROLLBAR----------------------*/
+
+::-webkit-scrollbar {
+  display: none;
+}

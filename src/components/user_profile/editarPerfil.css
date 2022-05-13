@@ -1,0 +1,106 @@
+h1 {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+
+h2 {
+    font-size: 13px;
+
+}
+
+.ctn-photo {
+    height: 100%;
+    padding-top: 10px;
+    padding-bottom: 32px;
+    background: linear-gradient(45deg, #49D49D 10%, #A2C7E5 90%);
+
+}
+
+.back-register-edit {
+    padding-top: 0px;
+    color: white;
+}
+
+.rw-new-photo {
+    height: 100%;
+    margin: 10px
+}
+
+.col-perfil {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0 10px 0;
+    padding: 0;
+}
+
+
+.col-button {
+    padding-top: 20px;
+}
+
+
+
+.perfilname {
+
+    width: 48%;
+    padding-top: 5%;
+
+}
+
+.surname {
+
+    width: 48%;
+    padding-top: 5%;
+
+
+}
+
+.perfilemail {
+
+    width: 100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.btncambios {
+
+
+    border-radius: 16px;
+    border: solid #99D98C;
+    border-bottom: 6px solid #99D98C;
+    background: white;
+
+    transition: all 0.1s;
+    color: black;
+    margin: 40px
+}
+
+
+.btncambios:hover {
+
+    border-radius: 16px;
+    border: 2px solid #99D98C;
+    border-bottom: 6px white;
+    background: #99D98C;
+
+    transition: all 0.1s;
+    color: black;
+
+
+}
+
+
+
+.close-button-editar {
+
+    font-size: 35px;
+    color: white;
+    position: relative;
+    text-align: start;
+
+}

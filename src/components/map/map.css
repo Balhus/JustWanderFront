@@ -1,0 +1,12 @@
+#map {
+
+    display: inline-block;
+}
+
+.leaflet-container {
+    height: 100%;
+}
+
+.pin-icon{
+    color:rgb(149, 199, 92);
+}

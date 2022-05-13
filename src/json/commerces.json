@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "name": "Nombre comercio 1",
+        "img": "https://placebear.com/400/600",
+        "info": "info comercio 1",
+        "info2": "info 2 comercio 1"
+    },
+    {
+        "id": 2,
+        "name": "Nombre comercio 2",
+        "img": "https://placeimg.com/400/600",
+        "info": "info comercio 2",
+        "info2": "info 2 comercio 2"
+    },
+    {
+        "id": 3,
+        "name": "Nombre comercio 3",
+        "img": "https://placekitten.com/400/600",
+        "info": "info comercio 3",
+        "info2": "info 2 comercio 3"
+    },
+    {
+        "id": 4,
+        "name": "Nombre comercio 4",
+        "img": "https://placebear.com/400/600",
+        "info": "info comercio 4",
+        "info2": "info 2 comercio 4"
+    },
+    {
+        "id": 5,
+        "name": "Nombre comercio 5",
+        "img": "https://placekitten.com/400/600",
+        "info": "info comercio 5",
+        "info2": "info 2 comercio 5"
+    },
+    {
+        "id": 6,
+        "name": "Nombre comercio 6",
+        "img": "https://placebear.com/400/600",
+        "info": "info comercio 6",
+        "info2": "info 2 comercio 6"
+    },
+    {
+        "id": 7,
+        "name": "Nombre comercio 7",
+        "img": "https://placekitten.com/400/600",
+        "info": "info comercio 7",
+        "info2": "info 2 comercio 7"
+    },
+    {
+        "id": 8,
+        "name": "Nombre comercio 8",
+        "img": "https://placeimg.com/400/600",
+        "info": "info comercio 8",
+        "info2": "info 2 comercio 8"
+    },
+    {
+        "id": 9,
+        "name": "Nombre comercio 9",
+        "img": "https://placeimg.com/400/600",
+        "info": "info comercio 9",
+        "info2": "info 2 comercio 9"
+    },
+    {
+        "id": 10,
+        "name": "Nombre comercio 10",
+        "img": "https://placekitten.com/400/600",
+        "info": "info comercio 10",
+        "info2": "info 2 comercio 10"
+    },
+    {
+        "id": 11,
+        "name": "Nombre comercio 11",
+        "img": "https://placeimg.com/400/600",
+        "info": "info comercio 11",
+        "info2": "info 2 comercio 11"
+    },
+    {
+        "id": 12,
+        "name": "Nombre comercio 12",
+        "img": "https://placebear.com/400/600",
+        "info": "info comercio 12",
+        "info2": "info 2 comercio 12"
+    },
+    {
+        "id": 13,
+        "name": "Nombre comercio 13",
+        "img": "https://placebear.com/400/600",
+        "info": "info comercio 13",
+        "info2": "info 2 comercio 13"
+    },
+    {
+        "id": 14,
+        "name": "Nombre comercio 14",
+        "img": "https://placeimg.com/400/600",
+        "info": "info comercio 14",
+        "info2": "info 2 comercio 14"
+    },
+    {
+        "id": 15,
+        "name": "Nombre comercio 15",
+        "img": "https://placekitten.com/400/600",
+        "info": "info comercio 15",
+        "info2": "info 2 comercio 15"
+    },
+    {
+        "id": 16,
+        "name": "Nombre comercio 16",
+        "img": "https://placebear.com/400/600",
+        "info": "info comercio 16",
+        "info2": "info 2 comercio 16"
+    },
+    {
+        "id": 17,
+        "name": "Nombre comercio 17",
+        "img": "https://placekitten.com/400/600",
+        "info": "info comercio 17",
+        "info2": "info 2 comercio 17"
+    },
+    {
+        "id": 18,
+        "name": "Nombre comercio 18",
+        "img": "https://placebear.com/400/600",
+        "info": "info comercio 18",
+        "info2": "info 2 comercio 18"
+    },
+    {
+        "id": 19,
+        "name": "Nombre comercio 19",
+        "img": "https://placekitten.com/400/600",
+        "info": "info comercio 19",
+        "info2": "info 2 comercio 19"
+    },
+    {
+        "id": 20,
+        "name": "Nombre comercio 20",
+        "img": "https://placeimg.com/400/600",
+        "info": "info comercio 20",
+        "info2": "info 2 comercio 20"
+    },
+    {
+        "id": 21,
+        "name": "Nombre comercio 21",
+        "img": "https://placekitten.com/400/600",
+        "info": "info comercio 21",
+        "info2": "info 2 comercio 21"
+    },
+    {
+        "id": 22,
+        "name": "Nombre comercio 22",
+        "img": "https://placeimg.com/400/600",
+        "info": "info comercio 22",
+        "info2": "info 2 comercio 22"
+    },
+    {
+        "id": 23,
+        "name": "Nombre comercio 23",
+        "img": "https://placebear.com/400/600",
+        "info": "info comercio 23",
+        "info2": "info 2 comercio 23"
+    },
+    {
+        "id": 24,
+        "name": "Nombre comercio 24",
+        "img": "https://placekitten.com/400/600",
+        "info": "info comercio 24",
+        "info2": "info 2 comercio 24"
+    }
+]

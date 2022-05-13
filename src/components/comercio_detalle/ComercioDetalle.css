@@ -1,0 +1,164 @@
+.btn.btn-success.btn.btn-primary.cerrar-detalle-mobile {
+    background-color: transparent;
+    border: none;
+    border-radius: 0%;
+    width: 1vw;
+    height: 1vh;
+    position: absolute;
+    top: -6px;
+    left: 0px;
+    z-index: 103;
+    opacity: 1;
+    font-size: 40px;
+    
+}
+
+.close-button-detalle {
+    color: white;
+    text-shadow: 0 0 0 black;
+    box-shadow: 0px 0px 10px -2px white;
+    border-radius: 100%;
+    background-color:rgba(118, 200, 147, 0.9);
+}
+
+.close-button-detalle:hover {
+    color: gray;
+
+}
+
+.estrellitas-mobile {
+    text-align: center;
+    margin: 1em;
+}
+
+.valoracion-title {
+    font-weight: 700 !important;
+    margin-bottom: 3px !important;
+}
+
+.valoracion-numvotos{
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.rating-container{
+    display: flex;
+    justify-content: center;
+}
+
+.desc-row{
+    text-align: center;
+}
+
+.desc-row-hidden{
+    text-align: center;
+    padding:0;
+
+}
+
+.map-detalle{
+    height: 180px;
+    padding:0;
+    border: 5px solid white;
+    text-align: center;
+    width: 90%;
+    box-shadow: 5px 5px 10px -3px #9e9e9e
+}
+
+.map-container{
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+}
+
+.map-container.row{
+    display: flex;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.ubicacion-detalle{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: black;
+    margin-bottom: 6px;
+    margin-top: 20px;
+    
+}
+
+.detalle-comercio-direccion{
+    display: flex;
+    color: rgb(71, 70, 70);
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    padding: 0px 20px;
+}
+
+.direccion-marker-detalle{
+    font-size: 1.2em;
+    color: rgb(149, 199, 92);
+    /* margin-right: 0.25em; */
+}
+
+.detalle-usuario-creador{
+    text-align: center;
+}
+
+.creador{
+    margin:20px 0px;
+}
+
+.usuario-detalle-title{
+    color: black;
+    font-weight: bold;
+}
+
+.img-usuario-detalle{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin-bottom: 2px;
+    margin-top: 5px;
+}
+
+.img-comercio-miniatura{
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    margin-bottom: 2px;
+    margin-top: 5px;
+}
+
+.usuario-detalle-info-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.usuario-detalle-info-nombre{
+    font-size: 1.2em;
+    padding: 3px;
+}
+
+.user-detalle-estrella{
+    color: #faaf00;
+}
+
+.user-detalle-estrella-2{
+    color: white;
+}
+
+.puntuacion-usuario-detalle{
+    display: flex;
+    align-items: center;
+    /* padding:5px; */
+    font-weight: bold;
+    font-size: 1.2em;
+    justify-content: center;
+}
+
+
