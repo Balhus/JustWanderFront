@@ -89,21 +89,21 @@
     align-items: center;
     justify-content: center;
     color: black;
-    background-color: rgb(228, 228, 228)!important;
+    background-color: rgb(228, 228, 228) !important;
 }
 
 .activo {
     color: #4caf50 !important;
     /* width: 50%; */
     font-weight: 700;
-    background-color: rgb(231 255 202)!important;
+    background-color: rgb(231 255 202) !important;
 }
 
 .activo2 {
     color: #4cacaf !important;
     /* width: 50%; */
     font-weight: 700;
-    background-color: rgb(202, 231, 255)!important;
+    background-color: rgb(202, 231, 255) !important;
 }
 
 .sin-resultados {
@@ -219,7 +219,7 @@ a {
         position: fixed;
         top: 5px;
         left: 10px;
-        width: 355px;
+        width: 95%;
     }
 }
 
